@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fetch-list>
+<item name="taobao" type="" url="http://www.11684.net/" loader_class="com.analysis.PagingLoader" match_config="taobao.xml"/>
+</fetch-list>
